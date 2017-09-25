@@ -4,7 +4,7 @@ void Insertionsort(int *arr, int size){
     for(int i = 1 ; i < size ; i++) {
         int key = arr[i];
         int j = i - 1;
-
+ //move elements(greater than key) of arr to next position   
         while(arr[j] > key && j >= 0){
             arr[j+1] = arr[j];
             j--;
