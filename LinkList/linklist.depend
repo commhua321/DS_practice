@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1546164107 source:c:\users\phwu\desktop\dspractice\ds_practice\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkList.h"
+
+1546162766 c:\users\phwu\desktop\dspractice\ds_practice\linklist\LinkList.c
+	"LinkList.h"
+
+1546162460 c:\users\phwu\desktop\dspractice\ds_practice\linklist\linklist.h
+	<stdlib.h>
+	<stdio.h>
+
+1546163505 source:c:\users\phwu\desktop\dspractice\ds_practice\linklist\linklist.c
+	"LinkList.h"
+
