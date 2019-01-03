@@ -2,7 +2,7 @@
 
 
 ## 數據結構練習
-| ID | Problem |
+| 資料夾 | 內容 |
 |:---:|:---:|
 |CircleLinkList|循環鏈表|
 |InfixToPostfix|中綴表達轉後綴表達|
