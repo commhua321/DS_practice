@@ -21,4 +21,4 @@
 |postfixexpress|後綴表達|
 |quicksort|快速排序|
 |scanner|就近匹配|
-|sorting|冒泡排序改進，選擇排序，插入排序|
+|sorting|冒泡排序改進，選擇排序，插入排序，Shell排序|
